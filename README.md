@@ -1,1 +1,1 @@
-# locdoc
+# locmed
